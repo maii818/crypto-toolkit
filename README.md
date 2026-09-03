@@ -80,10 +80,10 @@ streamlit run CryptoToolkit.py
 ## Team Members
 
 This project was developed as a team project by:
-- Malak Ashraf Rezk
-- Nourhan Essam Abd El-Razek
-- Farah Ibrahim Ahmed Ibrahim
-- Maii Walid Mohamed Al-Ahmer
+- @maii818
+- @nourhanessam4
+- @Farah-Ibrahim1405
+- @MalakAshrafRezk
 
 ## Disclaimer
 
